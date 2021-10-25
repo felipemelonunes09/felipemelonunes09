@@ -3,6 +3,10 @@
 
 Welcome to my GitHub README! My name is Felipe Nunes Melo, i'm a Software Developer
 
+# Test
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemelonunes09)](https://github.com/anuraghazra/github-readme-stats)
+
+
 # More About me
 
 # General Skills
