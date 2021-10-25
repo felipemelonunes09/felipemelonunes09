@@ -1,3 +1,5 @@
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ### Hi there 👋
 
 My name is Felipe Nunes Melo, i'm a Web Developer
