@@ -1,13 +1,11 @@
 # Hello, folks! 
 
 
-My name is Felipe Nunes Melo, i'm a Web Developer
+My name is Felipe Nunes Melo, i'm a Full Stack Web Developer
 
 # More About me
 
 # General Skills
-
-# Interres
 
 # Contact 
 
