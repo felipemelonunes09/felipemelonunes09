@@ -1,7 +1,7 @@
 # Hello, folks! 
 
 
-My name is Felipe Nunes Melo, i'm a Software Developer
+Welcome to my GitHub README! My name is Felipe Nunes Melo, i'm a Software Developer
 
 # More About me
 
