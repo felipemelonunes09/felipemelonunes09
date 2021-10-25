@@ -1,16 +1,15 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello, folks! 
 
-### Hi there 👋
 
 My name is Felipe Nunes Melo, i'm a Web Developer
 
-### More About me
+# More About me
 
-### General Skills
+# General Skills
 
-### Interres
+# Interres
 
-### Contact 
+# Contact 
 
 <!--
 **felipemelonunes09/felipemelonunes09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
