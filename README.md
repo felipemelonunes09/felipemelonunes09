@@ -8,7 +8,6 @@ Welcome to my GitHub README! My name is Felipe Nunes Melo, i'm from Brazil livin
 # 🔧 Skills and Technologies 
 
 [![Angular](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
-[![Vue](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
 
 
 
