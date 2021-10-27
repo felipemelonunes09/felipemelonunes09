@@ -7,7 +7,7 @@ Welcome to my GitHub README! My name is Felipe Nunes Melo, i'm from Brazil livin
 
 # 🔧 Skills and Technologies 
 
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+[![Open In Collab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Naereen/badges)
 
 
 
