@@ -1,6 +1,6 @@
 # Hello, folks! 
 
-<img src="# Find Me">
+<img src="https://github.com/felipemelonunes09/felipemelonunes09/blob/main/assets/img-header.jpg">
 Welcome to my GitHub README! My name is Felipe Nunes Melo, i'm a Software Developer
 
 # Some Data About Me
