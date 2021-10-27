@@ -1,7 +1,7 @@
-# Hello, folks! 
-
 [![Header](https://github.com/felipemelonunes09/felipemelonunes09/blob/main/assets/presentation-header.png "Header")](https://github.com/felipemelonunes09/felipemelonunes09/blob/main/assets/img-header.jpg)
-Welcome to my GitHub README! My name is Felipe Nunes Melo, i'm a Software Developer
+
+# Heyy!
+Welcome to my GitHub README! My name is Felipe Nunes Melo, i'm Software Developer working currently on Security and IAM, i started studying at 14 years and old and never stop since there! here you can see some of my projects and if you are a little bit more curious about my work, don't be shy and contact me ;)
 
 # Some Data About Me
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemelonunes09&show_icons=true&theme=radical)
