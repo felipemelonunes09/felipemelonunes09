@@ -1,6 +1,6 @@
 # Hello, folks! 
 
-[![Header](https://github.com/felipemelonunes09/felipemelonunes09/blob/main/assets/img-header.jpg "Header")](https://github.com/felipemelonunes09/felipemelonunes09/blob/main/assets/img-header.jpg)
+[![Header](https://github.com/felipemelonunes09/felipemelonunes09/blob/main/assets/presentation-header.png "Header")](https://github.com/felipemelonunes09/felipemelonunes09/blob/main/assets/img-header.jpg)
 Welcome to my GitHub README! My name is Felipe Nunes Melo, i'm a Software Developer
 
 # Some Data About Me
