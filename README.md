@@ -3,16 +3,18 @@
 # 😀 Hey!
 Welcome to my GitHub README! My name is Felipe Nunes Melo, i'm from Brazil living in São Paulo, i'm Software Developer/DevOps working currently working at IBM on Security and IAM, i started studying tecnology at 14 years old and never stop since there! here you can see some of my projects and if you are a little bit more curious about my work, don't be shy and contact me ;)
 
-# Some Data About Me
+# 💁‍♂️ More About me
+
+# 🔧 Skills
+
+# 📈 Some Data About Me
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemelonunes09&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemelonunes09)](https://github.com/anuraghazra/github-readme-stats)
 
 
-# Find Me
+# 🔎 Find Me
 
-# More About me
 
-# General Skills
  
 
 <!--
