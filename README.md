@@ -24,6 +24,7 @@ Welcome to my GitHub README! My name is Felipe Nunes Melo, i'm from Brazil livin
 # 💁‍♂️ More About
 
 Hey :) like i said My name is Felipe and i'm a Software Developer, i just love create new Applications and Solutions that doesn't exist yet!! 🤓 i was born in 2002, and started my life as developer on 2017, and now i study every day to learn more about.
+
 My dream is create something that will change the world 🌎, something that will help solve some problems of ours life (some of my projects can help you, so if want check it out!), but for now i have total focus on my graduation and career.
 
 # 📈 Some Data 
