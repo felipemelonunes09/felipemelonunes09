@@ -41,8 +41,7 @@ Here is some ways to contact me! 🤗
 
 > 🖊️ Linkedin: [click here!](https://www.linkedin.com/in/felipe-melo-219228199/)
 
-<button> Clique aqui :) </button>
- 
+
 
 <!--
 **felipemelonunes09/felipemelonunes09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
