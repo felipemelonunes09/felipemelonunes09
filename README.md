@@ -3,8 +3,6 @@
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey!
 Welcome to my GitHub README! My name is Felipe Nunes Melo, i'm from Brazil living in São Paulo, i'm Software Developer/DevOps currently working at IBM on Security, i started studying tecnology at 14 years old and never stop since there! here you can see some of my projects and if you are a little bit more curious about my work, don't be shy and contact me ;)
 
-# 💁‍♂️ More About
-
 # 🔧 Skills and Technologies 
 ![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=BD2A95)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=BD2A95)
@@ -22,6 +20,8 @@ Welcome to my GitHub README! My name is Felipe Nunes Melo, i'm from Brazil livin
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=for-the-badge&logo=mysql&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=for-the-badge&logo=digitalocean&logoColor=white&color=2bbc8a)
+
+# 💁‍♂️ More About
 
 # 📈 Some Data 
 
