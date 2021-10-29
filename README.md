@@ -40,7 +40,7 @@ Here is some ways to contact me! 🤗
 
 > ✉️ Email: felipe.melonunes09@gmail.com
 
-> 🖊️ LinkeDin: [click here!](https://www.linkedin.com/in/felipe-melo-219228199/)
+> 🖊️ Linkedin: [click here!](https://www.linkedin.com/in/felipe-melo-219228199/)
 
 
  
