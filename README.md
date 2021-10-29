@@ -38,9 +38,11 @@ My dream is create something that will change the world 🌎, something that wil
 
 Here is some ways to contact me! 🤗
 
-> Email:
-> LinkeDin: 
-> 
+> Email: Felipe.melonunes09@gmail.com
+
+> LinkeDin: Test123
+
+
  
 
 <!--
