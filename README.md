@@ -28,6 +28,7 @@ Hey :) like i said My name is Felipe and i'm a Software Developer, i just love c
 My dream is create something that will change the world 🌎, something that will help solve some problems of ours life (some of my projects can help you, so if want check it out!), but for now i have total focus on my graduation and career.
 
 # 📈 Some Data 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemelonunes09&show_icons=true&theme=radical)
 
 
 # 🔎 Find Me
