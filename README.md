@@ -11,9 +11,9 @@ Welcome to my GitHub README! My name is Felipe Nunes Melo, i'm from Brazil livin
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=BD2A95)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=BD2A95)
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=BD2A95)
-![](https://img.shields.io/badge/Code-Asp-informational?style=flat&logo=asp&logoColor=white&color=BD2A95)
+![](https://img.shields.io/badge/Code-Asp-informational?style=flat&logo=aspnet&logoColor=white&color=BD2A95)
 ![](https://img.shields.io/badge/Framework-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Angular-informational?style=flat&logo=angular&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=ionic&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/Tools-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
