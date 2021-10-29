@@ -6,7 +6,7 @@ Welcome to my GitHub README! My name is Felipe Nunes Melo, i'm from Brazil livin
 # 💁‍♂️ More About
 
 # 🔧 Skills and Technologies 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=BD2A95)
+![](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&logoColor=white&color=BD2A95)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=BD2A95)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=BD2A95)
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat&logo=typescript&logoColor=white&color=BD2A95)
